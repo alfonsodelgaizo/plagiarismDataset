@@ -1,0 +1,90 @@
+<cases>
+        <case>
+                <year>1933</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Light My Life With Love</songtitle>
+                <datatype>PDF</datatype>
+                <filename>light_myLife</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Nathaniel Shilkret</artist>
+                <songtitle>Lady Divine</songtitle>
+                <datatype>PDF</datatype>
+                <filename>lady_divine</filename>
+                </dwork>               
+        </case>
+       
+        <case>
+                <year>1935</year>
+                <cwork>
+                <artist>W.A. (Bud) Wilkie</artist>
+                <songtitle>Confessing</songtitle>
+                <datatype>PDF</datatype>
+                <filename>confessing</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Bernice Petkere</artist>
+                <songtitle>Starlight</songtitle>
+                <datatype>PDF</datatype>
+                <filename>starlight</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1936</year>
+                <cwork>
+                <artist>Norden</artist>
+                <songtitle>O Gladsome Light</songtitle>
+                <datatype>PDF</datatype>
+                <filename>o_gladsome</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Oliver Ditson</artist>
+                <songtitle>O Light Divine</songtitle>
+                <datatype>PDF</datatype>
+                <filename>o_light</filename>
+                </dwork>               
+        </case>
+
+                <case>
+                <year>1937</year>
+                <cwork>
+                <artist>Hortense Hirsch</artist>
+                <songtitle>Lady of Love</songtitle>
+                <datatype>PDF</datatype>
+                <filename>lady_love</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Harry Revel</artist>
+                <songtitle>Without a Word of Warning</songtitle>
+                <datatype>PDF</datatype>
+                <filename>word_warning</filename>
+                </dwork>               
+        </case>
+
+        </case>
+
+                <case>
+                <year>1939</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Whisper to Me</songtitle>
+                <datatype>PDF</datatype>
+                <filename>whisper</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Joe Burke</artist>
+                <songtitle>My Wishing Song</songtitle>
+                <datatype>PDF</datatype>
+                <filename>wishing_song</filename>
+                </dwork>               
+        </case>
+
+
+</cases>
