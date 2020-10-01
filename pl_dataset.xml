@@ -87,4 +87,112 @@
         </case>
 
 
+        </case>
+
+                <case>
+                <year>1940</year>
+                <cwork>
+                <artist>Jack Darrell</artist>
+                <songtitle>Does Anybody Want a Little Kewpie</songtitle>
+                <datatype>PDF</datatype>
+                <filename>does_anybody</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Joe Morris Music</artist>
+                <songtitle>On the Beach at Bali-Bali</songtitle>
+                <datatype>PDF</datatype>
+                <filename>bali</filename>
+                </dwork>               
+        </case>
+
+        </case>
+
+        <case>
+                <year>1940</year>
+                <cwork>
+                <artist>Joseph Davila</artist>
+                <songtitle>If I were a Spider</songtitle>
+                <datatype>PDF</datatype>
+                <filename>spider</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Sigmund Romberg</artist>
+                <songtitle>Desert Song</songtitle>
+                <datatype>PDF</datatype>
+                <filename>desert_song</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1941</year>
+                <cwork>
+                <artist>Wadsworth Doster</artist>
+                <songtitle>Old Eli</songtitle>
+                <datatype>PDF</datatype>
+                <filename>old_eli</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Walt Disney</artist>
+                <songtitle>Someday My Prince Will Come</songtitle>
+                <datatype>PDF</datatype>
+                <filename>someday_prince</filename>
+                </dwork>               
+        </case>
+
+
+        <case>
+                <year>1941</year>
+                <cwork>
+                <artist>Silvano D. Ramos</artist>
+                <songtitle>Allà en el Rancho Grande</songtitle>
+                <datatype>PDF</datatype>
+                <filename>alla_rancho</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Anonymous</artist>
+                <songtitle>Allà en el Rancho Grande</songtitle>
+                <datatype>PDF</datatype>
+                <filename>el_rancho_anonymous</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1942</year>
+                <cwork>
+                <artist>Evelyn Carew</artist>
+                <songtitle>Chatterbox</songtitle>
+                <datatype>PDF</datatype>
+                <filename>chatterbox_carew</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Jerome Brainan</artist>
+                <songtitle>Chatterbox</songtitle>
+                <datatype>PDF</datatype>
+                <filename>chatterbox_jerome</filename>
+                </dwork>               
+        </case>
+
+                <case>
+                <year>1942</year>
+                <cwork>
+                <artist>Joseph McMahon</artist>
+                <songtitle>In Sunny Kansas</songtitle>
+                <datatype>PDF</datatype>
+                <filename>kansas</filename>
+                </cwork>
+
+                <dwork>
+                <artist>John Openshaw</artist>
+                <songtitle>Love Sends A Little Gift of Roses</songtitle>
+                <datatype>PDF</datatype>
+                <filename>roses</filename>
+                </dwork>               
+        </case>
+
+
 </cases>
