@@ -194,5 +194,156 @@
                 </dwork>               
         </case>
 
+        <case>
+                <year>1943</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Whisper to Me</songtitle>
+                <datatype>PDF</datatype>
+                <filename>whisper_to_me</filename>
+                </cwork>
 
+                <dwork>
+                <artist>Broadcast Music</artist>
+                <songtitle>It All Comes Back to Me Now</songtitle>
+                <datatype>PDF</datatype>
+                <filename>itallcomes</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1943</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Kalamazoo</songtitle>
+                <datatype>PDF</datatype>
+                <filename>kalamazoo_arnstein</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Harry Warren</artist>
+                <songtitle>I’ve Got a Gal in Kalamazoo</songtitle>
+                <datatype>PDF</datatype>
+                <filename>kalamazoo_warren</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1945</year>
+                <cwork>
+                <artist>Samuel Brodsky</artist>
+                <songtitle>Prelude in A Major</songtitle>
+                <datatype>PDF</datatype>
+                <filename>prelude</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Hans Salter</artist>
+                <songtitle>Bad Lands of Dakota</songtitle>
+                <datatype>PDF</datatype>
+                <filename>dakota</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1946</year>
+                <cwork>
+                <artist>Hajdu Imre</artist>
+                <songtitle>Ma Este Meg Boldog Vagyok</songtitle>
+                <datatype>PDF</datatype>
+                <filename>vagyok</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Aldo Franchetti</artist>
+                <songtitle>Perhaps</songtitle>
+                <datatype>PDF</datatype>
+                <filename>perhaps</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1946</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Modern Messiah</songtitle>
+                <datatype>PDF</datatype>
+                <filename>messiah</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Cole Porter</artist>
+                <songtitle>Don’t Fence Me In</songtitle>
+                <datatype>PDF</datatype>
+                <filename>fence</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1946</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>The Lord Is My Shepherd</songtitle>
+                <datatype>PDF</datatype>
+                <filename>shepherd</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Cole Porter</artist>
+                <songtitle>Begin The Beguine</songtitle>
+                <datatype>PDF</datatype>
+                <filename>beginthebeguine</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1946</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>A Mother’s Prayer</songtitle>
+                <datatype>PDF</datatype>
+                <filename>amothersprayer</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Cole Porter</artist>
+                <songtitle>My Heart Belongs To Daddy</songtitle>
+                <datatype>PDF</datatype>
+                <filename>myownsweet</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1946</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Sadness O’erwhelms My Soul</songtitle>
+                <datatype>PDF</datatype>
+                <filename>sadness</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Cole Porter</artist>
+                <songtitle>You’d Be So Nice To Come Home To</songtitle>
+                <datatype>PDF</datatype>
+                <filename>youdbesonice</filename>
+                </dwork>               
+        </case>
+
+                <case>
+                <year>1946</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Twilight Waltz</songtitle>
+                <datatype>PDF</datatype>
+                <filename>twilightwaltz</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Cole Porter</artist>
+                <songtitle>What Is This Thing Called Love</songtitle>
+                <datatype>PDF</datatype>
+                <filename>calledlove</filename>
+                </dwork>               
+        </case>
 </cases>
