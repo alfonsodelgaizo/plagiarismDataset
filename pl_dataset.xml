@@ -808,8 +808,7 @@
                 </dwork>               
         </case>
         
-        
-        
+               
         
         
         <case>
@@ -827,6 +826,136 @@
                 <songtitle>Superstring</songtitle>
                 <datatype>midi</datatype>
                 <filename>superstring</filename>
+                </dwork>               
+        </case>
+        
+               
+        
+        
+        
+        <case>
+                <year>2002</year>
+                <cwork>
+                <artist>Marianne Creagh</artist>
+                <songtitle>Where are You Now</songtitle>
+                <datatype>PDF</datatype>
+                <filename>whereareyounow</filename>
+                </cwork>
+
+
+                <dwork>
+                <artist>Philippou  (“Manakiza”), Simon Stirling, Scott English</artist>
+                <songtitle>Where are You</songtitle>
+                <datatype>PDF</datatype>
+                <filename>superstring</filename>
+                </dwork>               
+        </case>
+        
+        
+        
+        
+        
+        
+        
+        <case>
+                <year>2003</year>
+                <cwork>
+                <artist>Mehmet Ergin, Christoph Lienemann</artist>
+                <songtitle>Wenn’s ums Geld geht-Sparkasse</songtitle>
+                <datatype>MIDI</datatype>
+                <filename>gehtsparkasse</filename>
+                </cwork>
+
+
+                <dwork>
+                <artist>Unknown composer</artist>
+                <songtitle>Wouldn’t It Be Good</songtitle>
+                <datatype>MIDI</datatype>
+                <filename>begood</filename>
+                </dwork>               
+        </case>
+        
+                  
+        
+                
+        
+        <case>
+                <year>2009</year>
+                <cwork>
+                <artist>WEH</artist>
+                <songtitle>Heartbeat</songtitle>
+                <datatype>MIDI</datatype>
+                <filename>heartbeat</filename>
+                </cwork>
+
+
+                <dwork>
+                <artist>Sophie Ellis-Bextor</artist>
+                <songtitle>Get Over You</songtitle>
+                <datatype>MIDI</datatype>
+                <filename>getoveryou</filename>
+                </dwork>               
+        </case>
+        
+        
+        <case>
+                <year>2010</year>
+                <cwork>
+                <artist>Marion Sinclair</artist>
+                <songtitle>Kookaburra Sits in the Old Gum Tree</songtitle>
+                <datatype>PDF</datatype>
+                <filename>gumtree</filename>
+                </cwork>
+
+
+                <dwork>
+                <artist>Colin James Hay and Ronald Graham Strykert</artist>
+                <songtitle>Down Under</songtitle>
+                <datatype>PDF</datatype>
+                <filename>downunder</filename>
+                </dwork>               
+        </case>
+        
+            
+     
+        
+        
+        <case>
+                <year>2015</year>
+                <cwork>
+                <artist>Dark Sanctuary</artist>
+                <songtitle>Les Memoires Blessées</songtitle>
+                <datatype>MIDI</datatype>
+                <filename>blessees</filename>
+                </cwork>
+
+
+                <dwork>
+                <artist>Bushido</artist>
+                <songtitle>Janine</songtitle>
+                <datatype>MIDI</datatype>
+                <filename>janine</filename>
+                </dwork>               
+        </case>
+
+        
+                
+        
+        <case>
+                <year>2018</year>
+                <cwork>
+                <artist>Stahlgewitter</artist>
+                <songtitle>Auftrag Deutsches Reich</songtitle>
+                <datatype>MIDI</datatype>
+                <filename>reich</filename>
+                </cwork>
+
+
+                <dwork>
+                <artist>Frei Wild</artist>
+                <songtitle>Schenkt uns Dummheit, kein Niveau</songtitle>
+                <datatype>MIDI</datatype>
+                <filename>niveau</filename>
                 </dwork>               
         </case>
 </cases>
