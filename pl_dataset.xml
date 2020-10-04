@@ -609,14 +609,14 @@
                 <cwork>
                 <artist>Stephen Schwartz</artist>
                 <songtitle>Day by Day</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>daybyday</filename>
                 </cwork>
 
                 <dwork>
                 <artist>Ray Ellis</artist>
                 <songtitle>Theme for N.B.C.s “oday Show</songtitle>
-                <datatype>MIDI</datatype>
+                <datatype>MXL</datatype>
                 <filename>themetodayshow</filename>
                 </dwork>               
         </case>
@@ -687,7 +687,7 @@
                 <cwork>
                 <artist>Louis Gaste</artist>
                 <songtitle>Pour Toi</songtitle>
-                <datatype>MIDI</datatype>
+                <datatype>MXL</datatype>
                 <filename>pourtoi</filename>
                 </cwork>
 
