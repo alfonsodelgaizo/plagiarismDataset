@@ -616,7 +616,7 @@
                 <dwork>
                 <artist>Ray Ellis</artist>
                 <songtitle>Theme for N.B.C.s “oday Show</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MIDI</datatype>
                 <filename>themetodayshow</filename>
                 </dwork>               
         </case>
@@ -687,7 +687,7 @@
                 <cwork>
                 <artist>Louis Gaste</artist>
                 <songtitle>Pour Toi</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MIDI</datatype>
                 <filename>pourtoi</filename>
                 </cwork>
 
