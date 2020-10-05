@@ -1,0 +1,369 @@
+<cases>
+        <case>
+                <year>1933</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Light My Life With Love</songtitle>
+                <datatype>MXL</datatype>
+                <filename>light_myLife</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Nathaniel Shilkret</artist>
+                <songtitle>Lady Divine</songtitle>
+                <datatype>MXL</datatype>
+                <filename>lady_divine</filename>
+                </dwork>               
+        </case>
+       
+        <case>
+                <year>1935</year>
+                <cwork>
+                <artist>W.A. (Bud) Wilkie</artist>
+                <songtitle>Confessing</songtitle>
+                <datatype>PDF</datatype>
+                <filename>confessing</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Bernice Petkere</artist>
+                <songtitle>Starlight</songtitle>
+                <datatype>PDF</datatype>
+                <filename>starlight</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1936</year>
+                <cwork>
+                <artist>Norden</artist>
+                <songtitle>O Gladsome Light</songtitle>
+                <datatype>MXL</datatype>
+                <filename>o_gladsome</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Oliver Ditson</artist>
+                <songtitle>O Light Divine</songtitle>
+                <datatype>PDF</datatype>
+                <filename>o_light</filename>
+                </dwork>               
+        </case>
+
+                <case>
+                <year>1937</year>
+                <cwork>
+                <artist>Hortense Hirsch</artist>
+                <songtitle>Lady of Love</songtitle>
+                <datatype>PDF</datatype>
+                <filename>lady_love</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Harry Revel</artist>
+                <songtitle>Without a Word of Warning</songtitle>
+                <datatype>PDF</datatype>
+                <filename>word_warning</filename>
+                </dwork>               
+        </case>
+
+     
+
+                <case>
+                <year>1939</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Whisper to Me</songtitle>
+                <datatype>PDF</datatype>
+                <filename>whisper</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Joe Burke</artist>
+                <songtitle>My Wishing Song</songtitle>
+                <datatype>PDF</datatype>
+                <filename>wishing_song</filename>
+                </dwork>               
+        </case>
+
+
+
+                <case>
+                <year>1940</year>
+                <cwork>
+                <artist>Jack Darrell</artist>
+                <songtitle>Does Anybody Want a Little Kewpie</songtitle>
+                <datatype>PDF</datatype>
+                <filename>does_anybody</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Joe Morris Music</artist>
+                <songtitle>On the Beach at Bali-Bali</songtitle>
+                <datatype>PDF</datatype>
+                <filename>bali</filename>
+                </dwork>               
+        </case>
+
+    
+
+        <case>
+                <year>1940</year>
+                <cwork>
+                <artist>Joseph Davila</artist>
+                <songtitle>If I were a Spider</songtitle>
+                <datatype>PDF</datatype>
+                <filename>spider</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Sigmund Romberg</artist>
+                <songtitle>Desert Song</songtitle>
+                <datatype>PDF</datatype>
+                <filename>desert_song</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1941</year>
+                <cwork>
+                <artist>Wadsworth Doster</artist>
+                <songtitle>Old Eli</songtitle>
+                <datatype>PDF</datatype>
+                <filename>old_eli</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Walt Disney</artist>
+                <songtitle>Someday My Prince Will Come</songtitle>
+                <datatype>PDF</datatype>
+                <filename>someday_prince</filename>
+                </dwork>               
+        </case>
+
+
+        <case>
+                <year>1941</year>
+                <cwork>
+                <artist>Silvano D. Ramos</artist>
+                <songtitle>Allà en el Rancho Grande</songtitle>
+                <datatype>PDF</datatype>
+                <filename>alla_rancho</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Anonymous</artist>
+                <songtitle>Allà en el Rancho Grande</songtitle>
+                <datatype>PDF</datatype>
+                <filename>el_rancho_anonymous</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1942</year>
+                <cwork>
+                <artist>Evelyn Carew</artist>
+                <songtitle>Chatterbox</songtitle>
+                <datatype>PDF</datatype>
+                <filename>chatterbox_carew</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Jerome Brainan</artist>
+                <songtitle>Chatterbox</songtitle>
+                <datatype>PDF</datatype>
+                <filename>chatterbox_jerome</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1942</year>
+                <cwork>
+                <artist>Joseph McMahon</artist>
+                <songtitle>In Sunny Kansas</songtitle>
+                <datatype>PDF</datatype>
+                <filename>kansas</filename>
+                </cwork>
+
+                <dwork>
+                <artist>John Openshaw</artist>
+                <songtitle>Love Sends A Little Gift of Roses</songtitle>
+                <datatype>PDF</datatype>
+                <filename>roses</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1943</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Whisper to Me</songtitle>
+                <datatype>PDF</datatype>
+                <filename>whisper_to_me</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Broadcast Music</artist>
+                <songtitle>It All Comes Back to Me Now</songtitle>
+                <datatype>PDF</datatype>
+                <filename>itallcomes</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1943</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Kalamazoo</songtitle>
+                <datatype>PDF</datatype>
+                <filename>kalamazoo_arnstein</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Harry Warren</artist>
+                <songtitle>I’ve Got a Gal in Kalamazoo</songtitle>
+                <datatype>PDF</datatype>
+                <filename>kalamazoo_warren</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1945</year>
+                <cwork>
+                <artist>Samuel Brodsky</artist>
+                <songtitle>Prelude in A Major</songtitle>
+                <datatype>PDF</datatype>
+                <filename>prelude</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Hans Salter</artist>
+                <songtitle>Bad Lands of Dakota</songtitle>
+                <datatype>PDF</datatype>
+                <filename>dakota</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1946</year>
+                <cwork>
+                <artist>Hajdu Imre</artist>
+                <songtitle>Ma Este Meg Boldog Vagyok</songtitle>
+                <datatype>PDF</datatype>
+                <filename>vagyok</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Aldo Franchetti</artist>
+                <songtitle>Perhaps</songtitle>
+                <datatype>PDF</datatype>
+                <filename>perhaps</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1946</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Modern Messiah</songtitle>
+                <datatype>PDF</datatype>
+                <filename>messiah</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Cole Porter</artist>
+                <songtitle>Don’t Fence Me In</songtitle>
+                <datatype>PDF</datatype>
+                <filename>fence</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1946</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>The Lord Is My Shepherd</songtitle>
+                <datatype>PDF</datatype>
+                <filename>shepherd</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Cole Porter</artist>
+                <songtitle>Begin The Beguine</songtitle>
+                <datatype>PDF</datatype>
+                <filename>beginthebeguine</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1946</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>A Mother’s Prayer</songtitle>
+                <datatype>PDF</datatype>
+                <filename>amothersprayer</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Cole Porter</artist>
+                <songtitle>My Heart Belongs To Daddy</songtitle>
+                <datatype>PDF</datatype>
+                <filename>myownsweet</filename>
+                </dwork>               
+        </case>
+
+        <case>
+                <year>1946</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Sadness O’erwhelms My Soul</songtitle>
+                <datatype>PDF</datatype>
+                <filename>sadness</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Cole Porter</artist>
+                <songtitle>You’d Be So Nice To Come Home To</songtitle>
+                <datatype>PDF</datatype>
+                <filename>youdbesonice</filename>
+                </dwork>               
+        </case>
+
+                <case>
+                <year>1946</year>
+                <cwork>
+                <artist>Ira Arnstein</artist>
+                <songtitle>Twilight Waltz</songtitle>
+                <datatype>PDF</datatype>
+                <filename>twilightwaltz</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Cole Porter</artist>
+                <songtitle>What Is This Thing Called Love</songtitle>
+                <datatype>PDF</datatype>
+                <filename>calledlove</filename>
+                </dwork>               
+        </case>
+
+
+    
+
+                <case>
+                <year>1951</year>
+                <cwork>
+                <artist>Thelma Jones</artist>
+                <songtitle>Just an Old Fashioned Mother and Dad</songtitle>
+                <datatype>PDF</datatype>
+                <filename>motheranddad</filename>
+                </cwork>
+
+                <dwork>
+                <artist>Francis Craig</artist>
+                <songtitle>Near You</songtitle>
+                <datatype>PDF</datatype>
+                <filename>nearyou</filename>
+                </dwork>               
+        </case>
+
+</cases>
