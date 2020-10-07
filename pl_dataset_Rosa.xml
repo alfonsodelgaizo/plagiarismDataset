@@ -276,14 +276,14 @@
                 <cwork>
                 <artist>Pantelis Ghinnis</artist>
                 <songtitle>Dirlada</songtitle>
-                <datatype>midi</datatype>
+                <datatype>MIDI</datatype>
                 <filename>dirlada</filename>
                 </cwork>
 
                 <dwork>
                 <artist>Juan Bastos</artist>
                 <songtitle>Loop Di Love</songtitle>
-                <datatype>midi</datatype>
+                <datatype>MIDI</datatype>
                 <filename>loopdilove</filename>
                 </dwork>               
         </case>
@@ -340,7 +340,7 @@
                 <artist>Julio Iglesias</artist>
                 <songtitle>Alle Liebe dieser Erde</songtitle>
                 <songtitle>Un canto a galicia</songtitle>
-                <datatype>midi</datatype>
+                <datatype>MIDI</datatype>
                 <filename>diesererde</filename>
                 <filename>uncantoagalicia</filename>
                 </cwork>
@@ -349,7 +349,7 @@
                 <dwork>
                 <artist>Nicole</artist>
                 <songtitle>Ein bisschen Frieden</songtitle>
-                <datatype>midi</datatype>
+                <datatype>MIDI</datatype>
                 <filename>bisschenfrieden</filename>
                 </dwork>               
         </case>
@@ -365,7 +365,7 @@
                 <cwork>
                 <artist>Paul DiFranco and Norman Dolph</artist>
                 <songtitle>Life is a Rock But the Radio Rolled Me</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>lifeisarock</filename>
                 </cwork>
 
@@ -373,7 +373,7 @@
                 <dwork>
                 <artist>McDonald’s</artist>
                 <songtitle>Menu Song</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>menusong</filename>
                 </dwork>               
         </case>
@@ -404,7 +404,7 @@
                 <cwork>
                 <artist>Ray Repp</artist>
                 <songtitle>Till You</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>tillyou</filename>
                 </cwork>
 
@@ -412,7 +412,7 @@
                 <dwork>
                 <artist>Andrew Lloyd-Webber</artist>
                 <songtitle>Phantom Song</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>phantomoftheopera</filename>
                 </dwork>               
         </case>
@@ -425,7 +425,7 @@
                 <cwork>
                 <artist>Suzane McKinley</artist>
                 <songtitle>I Think About You</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>ithinkaboutyou</filename>
                 </cwork>
 
@@ -433,7 +433,7 @@
                 <dwork>
                 <artist>Steve Seskin and Collin Raye</artist>
                 <songtitle>I Think About You</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>ithinkaboutyoutwo</filename>
                 </dwork>               
         </case>
@@ -468,7 +468,7 @@
                 <cwork>
                 <artist>Marianne Creagh</artist>
                 <songtitle>Where are You Now</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>whereareyounow</filename>
                 </cwork>
 
@@ -476,8 +476,8 @@
                 <dwork>
                 <artist>Philippou  (“Manakiza”), Simon Stirling, Scott English</artist>
                 <songtitle>Where are You</songtitle>
-                <datatype>PDF</datatype>
-                <filename>superstring</filename>
+                <datatype>MXL</datatype>
+                <filename>whereareyou</filename>
                 </dwork>               
         </case>
         
@@ -533,7 +533,7 @@
                 <cwork>
                 <artist>Marion Sinclair</artist>
                 <songtitle>Kookaburra Sits in the Old Gum Tree</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>gumtree</filename>
                 </cwork>
 
@@ -541,7 +541,7 @@
                 <dwork>
                 <artist>Colin James Hay and Ronald Graham Strykert</artist>
                 <songtitle>Down Under</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>downunder</filename>
                 </dwork>               
         </case>
