@@ -324,7 +324,7 @@
                 <dwork>
                 <artist>Morris Albert</artist>
                 <songtitle>Feelings</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>feelings</filename>
                 </dwork>               
         </case>
@@ -384,7 +384,7 @@
                 <cwork>
                 <artist>Enrique Chia</artist>
                 <songtitle>Es</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>es</filename>
                 </cwork>
 
@@ -392,7 +392,7 @@
                 <dwork>
                 <artist>Mario Balducci, Julio Iglesias</artist>
                 <songtitle>Hey</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>hey</filename>
                 </dwork>               
         </case>
@@ -446,7 +446,7 @@
                 <cwork>
                 <artist>Snap</artist>
                 <songtitle>Green Grass Grows (Earth follows)</songtitle>
-                <datatype>midi</datatype>
+                <datatype>MIDI</datatype>
                 <filename>greengrassgrows</filename>
                 </cwork>
 
@@ -454,7 +454,7 @@
                 <dwork>
                 <artist>Cygnus X</artist>
                 <songtitle>Superstring</songtitle>
-                <datatype>midi</datatype>
+                <datatype>MIDI</datatype>
                 <filename>superstring</filename>
                 </dwork>               
         </case>
