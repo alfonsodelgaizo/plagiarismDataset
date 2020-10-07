@@ -151,14 +151,14 @@
                 <cwork>
                 <artist>Wilhelm Kienzl</artist>
                 <songtitle>Aria O schöne Jugendtage from the opera Der Evangelimann</songtitle>
-                <datatype>midi</datatype>
+                <datatype>MIDI</datatype>
                 <filename>evangelimann</filename>
                 </cwork>
 
                 <dwork>
                 <artist>Gerhard Wendland</artist>
                 <songtitle>Tanze mit mir in den Morgen (Mitternachtstango)</songtitle>
-                <datatype>midi</datatype>
+                <datatype>MIDI</datatype>
                 <filename>mitternachtstango</filename>
                 </dwork>               
         </case>
@@ -203,7 +203,7 @@
                 <cwork>
                 <artist>Ronald Mack</artist>
                 <songtitle>He’s So Fine</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>hessofine</filename>
                 </cwork>
 
@@ -229,7 +229,7 @@
                 <dwork>
                 <artist>John Williams</artist>
                 <songtitle>Theme from A Time to Love</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>themeatimetolove</filename>
                 </dwork>               
         </case>
