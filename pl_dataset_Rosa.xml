@@ -134,14 +134,14 @@
                 <cwork>
                 <artist>Frank Nordstrom</artist>
                 <songtitle>“Mizpah” or “Shalom”</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>mizpahshalom</filename>
                 </cwork>
 
                 <dwork>
                 <artist>Jerry Herman</artist>
                 <songtitle>Shalom</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>shalom</filename>
                 </dwork>               
         </case>
@@ -168,14 +168,14 @@
                 <cwork>
                 <artist>Ruth Stratchborneo</artist>
                 <songtitle>MOJO Workout</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>mojoworkout</filename>
                 </cwork>
 
                 <dwork>
                 <artist>McKinley Morganfield</artist>
                 <songtitle>Got My Mojo Working</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>gotmymojoworking</filename>
                 </dwork>               
         </case>
@@ -185,14 +185,14 @@
                 <cwork>
                 <artist>Armando Sciascia</artist>
                 <songtitle>Sogno Nostalgico</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>sognonostalgico</filename>
                 </cwork>
 
                 <dwork>
                 <artist>Jack Trombey</artist>
                 <songtitle>Girl in the Dark</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>girlinthedark</filename>
                 </dwork>               
         </case>
@@ -257,7 +257,7 @@
                 <cwork>
                 <artist>Philip J. Lipari</artist>
                 <songtitle>Kept on Singing</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>keeponsinging</filename>
                 </cwork>
 
