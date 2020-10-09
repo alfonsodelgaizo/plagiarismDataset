@@ -93,7 +93,7 @@
                 <cwork>
                 <artist>Jack Darrell</artist>
                 <songtitle>Does Anybody Want a Little Kewpie</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>does_anybody</filename>
                 </cwork>
 
@@ -346,15 +346,12 @@
                 </dwork>               
         </case>
 
-
-    
-
                 <case>
                 <year>1951</year>
                 <cwork>
                 <artist>Thelma Jones</artist>
                 <songtitle>Just an Old Fashioned Mother and Dad</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXl</datatype>
                 <filename>motheranddad</filename>
                 </cwork>
 
