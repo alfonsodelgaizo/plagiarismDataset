@@ -60,14 +60,14 @@
                 <cwork>
                 <artist>Wihtol </artist>
                 <songtitle>My God and I</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>mygodandi</filename>
                 </cwork>
 
                 <dwork>
                 <artist>Latvian Folk Tune, arr. Kenneth H. Wells</artist>
                 <songtitle>My God and I</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>mygodanditwo</filename>
                 </dwork>               
         </case>
@@ -111,25 +111,7 @@
         </case>
 
 
-               <case>
-                <year>1963</year>
-                <cwork>
-                <artist>Mabel Wayne</artist>
-                <songtitle>In a Little Spanish Town</songtitle>
-                <datatype>PDF</datatype>
-                <filename>littlespanishtown</filename>
-                </cwork>
-
-                <dwork>
-                <artist>Peter de Angelis</artist>
-                <songtitle>Why</songtitle>
-                <datatype>PDF</datatype>
-                <filename>why</filename>
-                </dwork>               
-        </case>
-
-
-        <case>
+         <case>
                 <year>1965</year>
                 <cwork>
                 <artist>Frank Nordstrom</artist>
@@ -264,7 +246,7 @@
                 <dwork>
                 <artist>Danny Janssen and Bobby Hart</artist>
                 <songtitle>Keep on Singing</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>keeponsingingtwo</filename>
                 </dwork>               
         </case>
@@ -296,14 +278,14 @@
                 <cwork>
                 <artist>Ronald Selle</artist>
                 <songtitle>Let It End</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>letitend</filename>
                 </cwork>
 
                 <dwork>
                 <artist>Barry Gibb et al.</artist>
                 <songtitle>How Deep is Your Love</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>howdeepisyourlove</filename>
                 </dwork>               
         </case>
