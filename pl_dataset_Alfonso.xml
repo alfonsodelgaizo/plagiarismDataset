@@ -222,7 +222,7 @@
                 <dwork>
                 <artist>Harry Warren</artist>
                 <songtitle>I’ve Got a Gal in Kalamazoo</songtitle>
-                <datatype>PDF</datatype>
+                <datatype>MXL</datatype>
                 <filename>kalamazoo_warren</filename>
                 </dwork>               
         </case>
@@ -351,7 +351,7 @@
                 <cwork>
                 <artist>Thelma Jones</artist>
                 <songtitle>Just an Old Fashioned Mother and Dad</songtitle>
-                <datatype>MXl</datatype>
+                <datatype>MXL</datatype>
                 <filename>motheranddad</filename>
                 </cwork>
 
