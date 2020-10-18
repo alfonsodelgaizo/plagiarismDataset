@@ -33,9 +33,9 @@ def folderRead(folderName):
 
     for file in os.listdir(folderName):
         try:
-            if file.endswith(".mxl"):
+            if file.endswith((".mid",".mxl")):
                 print("mxl file found:\t", file)
-                generateString(file);
+                generateString(file,folderName);
                 csvfiles.append(str(file))
                 counter = counter + 1
         except Exception as e:
@@ -74,21 +74,27 @@ def pauseSearch(noteOrRests,ind):
         return pauseSearch(noteOrRests,ind-1)
 
 
-def pauseSearchForward(noteOrRests,ind):
+def pauseSearchForward(noteOrRests,ind,nlenOfPart):
+    print("SONO NELLA RICORSIONE")
+    print("LUNGHEZZA :  ",nlenOfPart)
+    if(ind>=nlenOfPart):
+        return -1
     if (noteOrRests[ind].isRest):
-        return  pauseSearchForward(noteOrRests,ind+1)
+        return  pauseSearchForward(noteOrRests,ind+1,nlenOfPart)
     if (noteOrRests[ind].isNote):
+        print("termina")
+        return ind
+    if (noteOrRests[ind].isChord):
         print("termina")
         return ind
 
 
-def generateString(songName):
-    song = m.converter.parse(songName)
-
+def generateString(songName,folderName):
+    path="./"+folderName+"/"+songName
+    song = m.converter.parse(path)
     i = 0;
 
     s2 = '';
-
     # Snippet per recuperare il numero di note del primo spartito
     # partStream è l' array degli strumenti
     # parStream[0] rappresenta il primo spartito
@@ -113,8 +119,11 @@ def generateString(songName):
         if (a.isRest):
             print("PAUSA")
             s2 = s2 + "p*"
-            indUtileForward = pauseSearchForward(song.recurse().notesAndRests, i + 1)
+            indUtileForward = pauseSearchForward(song.recurse().notesAndRests, i + 1,nlenOfPart)
             print("indice utile: ", indUtileForward)
+            if (indUtileForward<=-1):
+                break
+            #Dopo aver ricercato l'indice il programma salta direttamente alla prima nota utile dopo la pausa
             for j in range(i, indUtileForward - 1):
                 next(it)
             i = indUtileForward
@@ -223,4 +232,4 @@ def generateString(songName):
 
 
 
-folderRead('File')
+folderRead('Parts')
