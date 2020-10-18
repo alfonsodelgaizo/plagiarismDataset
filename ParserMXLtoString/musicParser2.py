@@ -15,7 +15,7 @@ songParseList=[]
 
 def generateCSV():
 
-    with open('datasetParsingDEF.csv', 'w') as csvfile:
+    with open('datasetParsing2.csv', 'w') as csvfile:
         filewriter = csv.writer(csvfile, delimiter=',',
                                 quotechar='|', quoting=csv.QUOTE_MINIMAL)
         filewriter.writerow(['N','SongName', 'SongString'])
@@ -119,15 +119,16 @@ def generateString(songName,folderName):
 
         if (a.isRest):
             print("PAUSA")
-            s2 = s2 + "p*"
-            indUtileForward = pauseSearchForward(song.recurse().notesAndRests, i + 1,nlenOfPart)
-            print("indice utile: ", indUtileForward)
-            if (indUtileForward<=-1):
-                break
-            #Dopo aver ricercato l'indice il programma salta direttamente alla prima nota utile dopo la pausa
-            for j in range(i, indUtileForward - 1):
-                next(it)
-            i = indUtileForward
+            duration=a.duration.quarterLength
+
+            if (duration<1):
+                duration = str(duration)
+                s3 = s3 + "p" + duration
+            else:
+                duration=round(duration)
+                duration=str(duration)
+                s3=s3 + "p"+ duration
+
 
         if (a.isNote):
             print("NOTA")
@@ -152,13 +153,26 @@ def generateString(songName,folderName):
                     pitchDiff = str(pitchDiff)
                     s2 = s2 + pitchDiff + '*';
 
+                    #Calcolo Seconda Rappresentazione (pitch*duration)
 
+                    pitchCorrente = a.pitch.ps * a.duration.quarterLength
+                    pitchPrec = max * maxD;
+                    pitchDiff = pitchCorrente - pitchPrec
+                    print("OPERAZIONE :",pitchCorrente," - ",pitchPrec)
+
+                    if (isinstance(pitchDiff, float)):
+                        pitchDiff = str(pitchDiff)
+                        s3 = s3 + pitchDiff + '*';
+                    else:
+                        pitchDiff = round(pitchDiff)
+                        pitchDiff = str(pitchDiff)
+                        s3 = s3 + pitchDiff + '*';
 
 
                 if (song.recurse().notesAndRests[indUtile].isNote):
                     pitchCorrente = a.pitch.ps
                     pitchPrec = song.recurse().notesAndRests[indUtile].pitch.ps;
-                    print("OPERAZIONE: ", pitchCorrente, " - ", pitchPrec)
+                    print("OPERAZIONE: ",pitchCorrente, " - ",pitchPrec)
                     pitchDiff = pitchCorrente - pitchPrec
                     # Cast from Float to String
                     pitchDiff = round(pitchDiff)
@@ -166,7 +180,20 @@ def generateString(songName,folderName):
                     pitchDiff = str(pitchDiff)
                     s2 = s2 + pitchDiff + '*';
 
+                    #Calcolo Seconda Rappresentazione (pitch*duration)
 
+                    pitchCorrente = a.pitch.ps * a.duration.quarterLength
+                    pitchPrec = song.recurse().notesAndRests[indUtile].pitch.ps * song.recurse().notesAndRests[indUtile].duration.quarterLength;
+                    pitchDiff = pitchCorrente - pitchPrec
+                    print("OPERAZIONE :",pitchCorrente," - ",pitchPrec)
+
+                    if (isinstance(pitchDiff, float)):
+                        pitchDiff = str(pitchDiff)
+                        s3 = s3 + pitchDiff + '*';
+                    else:
+                        pitchDiff = round(pitchDiff)
+                        pitchDiff = str(pitchDiff)
+                        s3 = s3 + pitchDiff + '*';
 
             x = a;
             s = getMusicProperties(x);
@@ -205,6 +232,20 @@ def generateString(songName,folderName):
                     s2 = s2 + pitchDiff + '*';
 
 
+                    #Calcolo Seconda Rappresentazione (pitch*duration)
+
+                    pitchCorrente= pitchCorrente* pitchCorrenteD
+                    pitchPrec= pitchPrec* pitchPrecD
+                    pitchDiff=pitchCorrente-pitchPrec
+                    print("OPERAZIONE :",pitchCorrente," - ",pitchPrec)
+
+                    if (isinstance(pitchDiff, float)):
+                        pitchDiff = str(pitchDiff)
+                        s3 = s3 + pitchDiff + '*';
+                    else:
+                        pitchDiff = round(pitchDiff)
+                        pitchDiff = str(pitchDiff)
+                        s3 = s3 + pitchDiff + '*';
 
 
                 if (song.recurse().notesAndRests[indUtile].isNote):
@@ -225,6 +266,20 @@ def generateString(songName,folderName):
                     pitchDiff = str(pitchDiff)
                     s2 = s2 + pitchDiff + '*';
 
+                    #Calcolo Seconda Rappresentazione (pitch*duration)
+
+                    pitchPrec= song.recurse().notesAndRests[indUtile].pitch.ps *  song.recurse().notesAndRests[indUtile].duration.quarterLength
+                    pitchCorrente=pitchCorrente* pitchCorrenteD
+                    pitchDiff = pitchCorrente - pitchPrec
+                    print("OPERAZIONE :",pitchCorrente," - ",pitchPrec)
+                    if (isinstance(pitchDiff, float)):
+                        pitchDiff = str(pitchDiff)
+                        s3 = s3 + pitchDiff + '*';
+                    else:
+                        pitchDiff = round(pitchDiff)
+                        pitchDiff = str(pitchDiff)
+                        s3 = s3 + pitchDiff + '*';
+
 
 
 
@@ -232,14 +287,15 @@ def generateString(songName,folderName):
     # s2=s2.replace("p*p","p")
     # s2=s2.replace("p*p*p","p")
     # s2=s2.replace("p*p*p*p","p")
-    s2= s2.replace("*", "");
+    s3= s3.replace("*", "");
+    s3= s3.replace(".0", "");
 
-    print(s2)
+    print(s3)
 
     #generateSongArray(s2)
 
     #Aggiungo un nuovo elemento nella lista delle canzoni di cui ho effettuato il Parsing
-    songParseList.append(SongParse(songName,s2))
+    songParseList.append(SongParse(songName,s3))
 
     print("Done.")
 
