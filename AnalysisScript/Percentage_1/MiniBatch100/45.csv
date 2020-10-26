@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,greengrassgrows,superstring,MiniBatch100,300,71.01
+1,greengrassgrows,superstring,MiniBatch100,100,31.88
+2,greengrassgrows,superstring,MiniBatch100,200,62.32
+3,greengrassgrows,superstring,MiniBatch100,50,98.55
+4,greengrassgrows,superstring,MiniBatch100,150,97.1

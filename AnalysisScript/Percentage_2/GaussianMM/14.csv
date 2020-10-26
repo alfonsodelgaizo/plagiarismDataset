@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,kalamazoo_arnstein,kalamazoo_warren,GaussianMM,300,10.14
+1,kalamazoo_arnstein,kalamazoo_warren,GaussianMM,100,0.0
+2,kalamazoo_arnstein,kalamazoo_warren,GaussianMM,200,27.54
+3,kalamazoo_arnstein,kalamazoo_warren,GaussianMM,50,4.35
+4,kalamazoo_arnstein,kalamazoo_warren,GaussianMM,150,0.0

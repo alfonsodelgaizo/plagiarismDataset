@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,chatterbox_carew,chatterbox_jerome,GaussianMM,300,1.45
+1,chatterbox_carew,chatterbox_jerome,GaussianMM,100,1.45
+2,chatterbox_carew,chatterbox_jerome,GaussianMM,200,4.35
+3,chatterbox_carew,chatterbox_jerome,GaussianMM,50,36.23
+4,chatterbox_carew,chatterbox_jerome,GaussianMM,150,2.9

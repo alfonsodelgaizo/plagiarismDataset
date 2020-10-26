@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,messiah,fence,KMean,300,11.59
+1,messiah,fence,KMean,100,24.64
+2,messiah,fence,KMean,200,1.45
+3,messiah,fence,KMean,50,0.0
+4,messiah,fence,KMean,150,5.8

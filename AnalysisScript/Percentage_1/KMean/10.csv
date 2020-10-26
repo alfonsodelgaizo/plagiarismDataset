@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,alla_rancho,el_rancho_anonymous,KMean,300,8.7
+1,alla_rancho,el_rancho_anonymous,KMean,100,2.9
+2,alla_rancho,el_rancho_anonymous,KMean,200,0.0
+3,alla_rancho,el_rancho_anonymous,KMean,50,17.39
+4,alla_rancho,el_rancho_anonymous,KMean,150,0.0

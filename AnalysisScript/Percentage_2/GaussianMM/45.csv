@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,greengrassgrows,superstring,GaussianMM,300,5.8
+1,greengrassgrows,superstring,GaussianMM,100,1.45
+2,greengrassgrows,superstring,GaussianMM,200,28.99
+3,greengrassgrows,superstring,GaussianMM,50,0.0
+4,greengrassgrows,superstring,GaussianMM,150,0.0

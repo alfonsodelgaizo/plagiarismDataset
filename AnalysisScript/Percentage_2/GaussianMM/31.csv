@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,mojoworkout,gotmymojoworking,GaussianMM,300,0.0
+1,mojoworkout,gotmymojoworking,GaussianMM,100,0.0
+2,mojoworkout,gotmymojoworking,GaussianMM,200,1.45
+3,mojoworkout,gotmymojoworking,GaussianMM,50,1.45
+4,mojoworkout,gotmymojoworking,GaussianMM,150,1.45

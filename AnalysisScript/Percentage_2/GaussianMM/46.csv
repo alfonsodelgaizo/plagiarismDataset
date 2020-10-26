@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,whereareyounow,whereareyou,GaussianMM,300,20.29
+1,whereareyounow,whereareyou,GaussianMM,100,17.39
+2,whereareyounow,whereareyou,GaussianMM,200,5.8
+3,whereareyounow,whereareyou,GaussianMM,50,23.19
+4,whereareyounow,whereareyou,GaussianMM,150,14.49

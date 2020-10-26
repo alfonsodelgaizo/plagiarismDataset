@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,pourtoi,feelings,GaussianMM,300,0.0
+1,pourtoi,feelings,GaussianMM,100,0.0
+2,pourtoi,feelings,GaussianMM,200,0.0
+3,pourtoi,feelings,GaussianMM,50,0.0
+4,pourtoi,feelings,GaussianMM,150,10.14

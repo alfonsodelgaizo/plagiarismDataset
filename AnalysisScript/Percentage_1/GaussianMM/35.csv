@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,daybyday,themetodayshow,GaussianMM,300,4.35
+1,daybyday,themetodayshow,GaussianMM,100,1.45
+2,daybyday,themetodayshow,GaussianMM,200,46.38
+3,daybyday,themetodayshow,GaussianMM,50,13.04
+4,daybyday,themetodayshow,GaussianMM,150,79.71

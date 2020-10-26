@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,daybyday,themetodayshow,Kmean,300,0.0
+1,daybyday,themetodayshow,Kmean,100,2.9
+2,daybyday,themetodayshow,Kmean,200,0.0
+3,daybyday,themetodayshow,Kmean,50,4.35
+4,daybyday,themetodayshow,Kmean,150,0.0

@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,chatterbox_carew,chatterbox_jerome,KMean,300,2.9
+1,chatterbox_carew,chatterbox_jerome,KMean,100,2.9
+2,chatterbox_carew,chatterbox_jerome,KMean,200,5.8
+3,chatterbox_carew,chatterbox_jerome,KMean,50,31.88
+4,chatterbox_carew,chatterbox_jerome,KMean,150,2.9

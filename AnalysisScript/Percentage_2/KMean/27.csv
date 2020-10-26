@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,goodnight,whilewedream,Kmean,300,18.84
+1,goodnight,whilewedream,Kmean,100,15.94
+2,goodnight,whilewedream,Kmean,200,15.94
+3,goodnight,whilewedream,Kmean,50,0.0
+4,goodnight,whilewedream,Kmean,150,1.45

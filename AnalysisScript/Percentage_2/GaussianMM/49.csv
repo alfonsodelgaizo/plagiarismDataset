@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,gumtree,downunder,GaussianMM,300,20.29
+1,gumtree,downunder,GaussianMM,100,0.0
+2,gumtree,downunder,GaussianMM,200,0.0
+3,gumtree,downunder,GaussianMM,50,30.43
+4,gumtree,downunder,GaussianMM,150,0.0

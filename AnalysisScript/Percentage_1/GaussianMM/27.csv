@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,goodnight,whilewedream,GaussianMM,300,0.0
+1,goodnight,whilewedream,GaussianMM,100,7.25
+2,goodnight,whilewedream,GaussianMM,200,5.8
+3,goodnight,whilewedream,GaussianMM,50,86.96
+4,goodnight,whilewedream,GaussianMM,150,8.7

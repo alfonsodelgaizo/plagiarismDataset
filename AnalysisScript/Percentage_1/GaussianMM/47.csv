@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,gehtsparkasse,begood,GaussianMM,300,50.72
+1,gehtsparkasse,begood,GaussianMM,100,15.94
+2,gehtsparkasse,begood,GaussianMM,200,98.55
+3,gehtsparkasse,begood,GaussianMM,50,31.88
+4,gehtsparkasse,begood,GaussianMM,150,31.88

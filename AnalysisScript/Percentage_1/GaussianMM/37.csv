@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,dirlada,loopdilove,GaussianMM,300,72.46
+1,dirlada,loopdilove,GaussianMM,100,63.77
+2,dirlada,loopdilove,GaussianMM,200,15.94
+3,dirlada,loopdilove,GaussianMM,50,75.36
+4,dirlada,loopdilove,GaussianMM,150,4.35

@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,es,hey,Kmean,300,2.9
+1,es,hey,Kmean,100,30.43
+2,es,hey,Kmean,200,31.88
+3,es,hey,Kmean,50,24.64
+4,es,hey,Kmean,150,4.35

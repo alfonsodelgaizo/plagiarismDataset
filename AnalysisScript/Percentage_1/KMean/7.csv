@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,does_anybody,bali,KMean,300,0.0
+1,does_anybody,bali,KMean,100,1.45
+2,does_anybody,bali,KMean,200,26.09
+3,does_anybody,bali,KMean,50,37.68
+4,does_anybody,bali,KMean,150,0.0

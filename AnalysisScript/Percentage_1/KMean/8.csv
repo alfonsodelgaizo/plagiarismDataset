@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,spider,desert_song,KMean,300,4.35
+1,spider,desert_song,KMean,100,2.9
+2,spider,desert_song,KMean,200,0.0
+3,spider,desert_song,KMean,50,0.0
+4,spider,desert_song,KMean,150,0.0

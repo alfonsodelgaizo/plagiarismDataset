@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,lifeisarock,menusong,Kmean,300,0.0
+1,lifeisarock,menusong,Kmean,100,50.72
+2,lifeisarock,menusong,Kmean,200,10.14
+3,lifeisarock,menusong,Kmean,50,0.0
+4,lifeisarock,menusong,Kmean,150,2.9

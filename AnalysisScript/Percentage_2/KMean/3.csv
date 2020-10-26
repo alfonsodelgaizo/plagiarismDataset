@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,confessing,starlight,Kmean,300,10.14
+1,confessing,starlight,Kmean,100,0.0
+2,confessing,starlight,Kmean,200,1.45
+3,confessing,starlight,Kmean,50,0.0
+4,confessing,starlight,Kmean,150,2.9

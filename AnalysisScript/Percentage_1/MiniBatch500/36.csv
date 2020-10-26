@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,keeponsinging,keeponsingingtwo,MiniBatch500,300,5.8
+1,keeponsinging,keeponsingingtwo,MiniBatch500,100,78.26
+2,keeponsinging,keeponsingingtwo,MiniBatch500,200,2.9
+3,keeponsinging,keeponsingingtwo,MiniBatch500,50,23.19
+4,keeponsinging,keeponsingingtwo,MiniBatch500,150,13.04

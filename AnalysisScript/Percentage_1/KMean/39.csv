@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,pourtoi,feelings,KMean,300,0.0
+1,pourtoi,feelings,KMean,100,7.25
+2,pourtoi,feelings,KMean,200,10.14
+3,pourtoi,feelings,KMean,50,11.59
+4,pourtoi,feelings,KMean,150,1.45

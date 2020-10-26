@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,lady_love,word_warning,Kmean,300,4.35
+1,lady_love,word_warning,Kmean,100,0.0
+2,lady_love,word_warning,Kmean,200,2.9
+3,lady_love,word_warning,Kmean,50,4.35
+4,lady_love,word_warning,Kmean,150,1.45

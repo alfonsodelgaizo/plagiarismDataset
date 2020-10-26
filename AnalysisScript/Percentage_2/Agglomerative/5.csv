@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,lady_love,word_warning,Agglomerative,300,1.45
+1,lady_love,word_warning,Agglomerative,100,0.0
+2,lady_love,word_warning,Agglomerative,200,1.45
+3,lady_love,word_warning,Agglomerative,50,4.35
+4,lady_love,word_warning,Agglomerative,150,0.0

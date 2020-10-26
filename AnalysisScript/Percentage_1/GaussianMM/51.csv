@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,reich,niveau,GaussianMM,300,63.77
+1,reich,niveau,GaussianMM,100,14.49
+2,reich,niveau,GaussianMM,200,50.72
+3,reich,niveau,GaussianMM,50,37.68
+4,reich,niveau,GaussianMM,150,0.0

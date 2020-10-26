@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,prelude,dakota,GaussianMM,300,7.25
+1,prelude,dakota,GaussianMM,100,1.45
+2,prelude,dakota,GaussianMM,200,7.25
+3,prelude,dakota,GaussianMM,50,0.0
+4,prelude,dakota,GaussianMM,150,4.35

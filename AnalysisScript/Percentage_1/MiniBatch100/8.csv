@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,spider,desert_song,MiniBatch100,300,2.9
+1,spider,desert_song,MiniBatch100,100,7.25
+2,spider,desert_song,MiniBatch100,200,0.0
+3,spider,desert_song,MiniBatch100,50,0.0
+4,spider,desert_song,MiniBatch100,150,0.0

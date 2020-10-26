@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,sadness,youdbesonice,GaussianMM,300,4.35
+1,sadness,youdbesonice,GaussianMM,100,0.0
+2,sadness,youdbesonice,GaussianMM,200,0.0
+3,sadness,youdbesonice,GaussianMM,50,8.7
+4,sadness,youdbesonice,GaussianMM,150,14.49

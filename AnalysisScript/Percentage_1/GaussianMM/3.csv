@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,confessing,starlight,GaussianMM,300,5.8
+1,confessing,starlight,GaussianMM,100,10.14
+2,confessing,starlight,GaussianMM,200,1.45
+3,confessing,starlight,GaussianMM,50,0.0
+4,confessing,starlight,GaussianMM,150,0.0

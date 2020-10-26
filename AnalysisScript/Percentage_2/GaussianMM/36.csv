@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,keeponsinging,keeponsingingtwo,GaussianMM,300,0.0
+1,keeponsinging,keeponsingingtwo,GaussianMM,100,1.45
+2,keeponsinging,keeponsingingtwo,GaussianMM,200,5.8
+3,keeponsinging,keeponsingingtwo,GaussianMM,50,0.0
+4,keeponsinging,keeponsingingtwo,GaussianMM,150,2.9

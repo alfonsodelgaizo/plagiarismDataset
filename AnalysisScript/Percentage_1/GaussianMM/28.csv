@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,rendezvous,idreamed,GaussianMM,300,0.0
+1,rendezvous,idreamed,GaussianMM,100,7.25
+2,rendezvous,idreamed,GaussianMM,200,66.67
+3,rendezvous,idreamed,GaussianMM,50,55.07
+4,rendezvous,idreamed,GaussianMM,150,26.09

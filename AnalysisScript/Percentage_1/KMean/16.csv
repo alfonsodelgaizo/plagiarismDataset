@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,vagyok,perhaps,KMean,300,1.45
+1,vagyok,perhaps,KMean,100,1.45
+2,vagyok,perhaps,KMean,200,1.45
+3,vagyok,perhaps,KMean,50,1.45
+4,vagyok,perhaps,KMean,150,0.0

@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,mojoworkout,gotmymojoworking,Kmean,300,0.0
+1,mojoworkout,gotmymojoworking,Kmean,100,0.0
+2,mojoworkout,gotmymojoworking,Kmean,200,0.0
+3,mojoworkout,gotmymojoworking,Kmean,50,1.45
+4,mojoworkout,gotmymojoworking,Kmean,150,4.35

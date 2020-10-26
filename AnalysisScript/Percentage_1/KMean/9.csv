@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,old_eli,someday_prince,KMean,300,0.0
+1,old_eli,someday_prince,KMean,100,8.7
+2,old_eli,someday_prince,KMean,200,7.25
+3,old_eli,someday_prince,KMean,50,1.45
+4,old_eli,someday_prince,KMean,150,0.0

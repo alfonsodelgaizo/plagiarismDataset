@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,mygodandi,mygodanditwo,GaussianMM,300,0.0
+1,mygodandi,mygodanditwo,GaussianMM,100,0.0
+2,mygodandi,mygodanditwo,GaussianMM,200,2.9
+3,mygodandi,mygodanditwo,GaussianMM,50,0.0
+4,mygodandi,mygodanditwo,GaussianMM,150,0.0

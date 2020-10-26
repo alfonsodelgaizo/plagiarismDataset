@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,spider,desert_song,Agglomerative,300,0.0
+1,spider,desert_song,Agglomerative,100,13.04
+2,spider,desert_song,Agglomerative,200,0.0
+3,spider,desert_song,Agglomerative,50,4.35
+4,spider,desert_song,Agglomerative,150,0.0

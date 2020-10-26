@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,prelude,dakota,MiniBatch500,300,0.0
+1,prelude,dakota,MiniBatch500,100,59.42
+2,prelude,dakota,MiniBatch500,200,62.32
+3,prelude,dakota,MiniBatch500,50,28.99
+4,prelude,dakota,MiniBatch500,150,50.72

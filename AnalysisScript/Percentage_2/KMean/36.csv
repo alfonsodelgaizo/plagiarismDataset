@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,keeponsinging,keeponsingingtwo,Kmean,300,2.9
+1,keeponsinging,keeponsingingtwo,Kmean,100,0.0
+2,keeponsinging,keeponsingingtwo,Kmean,200,5.8
+3,keeponsinging,keeponsingingtwo,Kmean,50,0.0
+4,keeponsinging,keeponsingingtwo,Kmean,150,5.8

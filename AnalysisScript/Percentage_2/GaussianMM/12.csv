@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,kansas,roses,GaussianMM,300,8.7
+1,kansas,roses,GaussianMM,100,42.03
+2,kansas,roses,GaussianMM,200,17.39
+3,kansas,roses,GaussianMM,50,24.64
+4,kansas,roses,GaussianMM,150,0.0

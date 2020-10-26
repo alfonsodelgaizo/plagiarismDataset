@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,messiah,fence,GaussianMM,300,0.0
+1,messiah,fence,GaussianMM,100,0.0
+2,messiah,fence,GaussianMM,200,0.0
+3,messiah,fence,GaussianMM,50,1.45
+4,messiah,fence,GaussianMM,150,0.0

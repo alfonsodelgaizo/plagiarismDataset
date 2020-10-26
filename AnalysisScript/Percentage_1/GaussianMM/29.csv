@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,mizpahshalom,shalom,GaussianMM,300,4.35
+1,mizpahshalom,shalom,GaussianMM,100,15.94
+2,mizpahshalom,shalom,GaussianMM,200,0.0
+3,mizpahshalom,shalom,GaussianMM,50,26.09
+4,mizpahshalom,shalom,GaussianMM,150,11.59

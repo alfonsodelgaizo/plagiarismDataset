@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,letitend,howdeepisyourlove,Kmean,300,0.0
+1,letitend,howdeepisyourlove,Kmean,100,0.0
+2,letitend,howdeepisyourlove,Kmean,200,24.64
+3,letitend,howdeepisyourlove,Kmean,50,0.0
+4,letitend,howdeepisyourlove,Kmean,150,5.8

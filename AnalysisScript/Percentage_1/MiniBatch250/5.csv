@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,lady_love,word_warning,MiniBatch250,300,2.9
+1,lady_love,word_warning,MiniBatch250,100,4.35
+2,lady_love,word_warning,MiniBatch250,200,31.88
+3,lady_love,word_warning,MiniBatch250,50,0.0
+4,lady_love,word_warning,MiniBatch250,150,0.0

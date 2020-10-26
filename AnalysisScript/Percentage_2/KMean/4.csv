@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,o_gladsome,o_light,Kmean,300,4.35
+1,o_gladsome,o_light,Kmean,100,0.0
+2,o_gladsome,o_light,Kmean,200,0.0
+3,o_gladsome,o_light,Kmean,50,4.35
+4,o_gladsome,o_light,Kmean,150,0.0

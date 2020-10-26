@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,whereareyounow,whereareyou,KMean,300,7.25
+1,whereareyounow,whereareyou,KMean,100,2.9
+2,whereareyounow,whereareyou,KMean,200,0.0
+3,whereareyounow,whereareyou,KMean,50,8.7
+4,whereareyounow,whereareyou,KMean,150,8.7

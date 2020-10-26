@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,gehtsparkasse,begood,Kmean,300,13.04
+1,gehtsparkasse,begood,Kmean,100,37.68
+2,gehtsparkasse,begood,Kmean,200,0.0
+3,gehtsparkasse,begood,Kmean,50,60.87
+4,gehtsparkasse,begood,Kmean,150,84.06

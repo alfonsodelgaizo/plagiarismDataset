@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,ithinkaboutyou,ithinkaboutyoutwo,GaussianMM,300,27.54
+1,ithinkaboutyou,ithinkaboutyoutwo,GaussianMM,100,79.71
+2,ithinkaboutyou,ithinkaboutyoutwo,GaussianMM,200,56.52
+3,ithinkaboutyou,ithinkaboutyoutwo,GaussianMM,50,7.25
+4,ithinkaboutyou,ithinkaboutyoutwo,GaussianMM,150,0.0

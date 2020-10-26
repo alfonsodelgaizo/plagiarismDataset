@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,whisper_to_me,itallcomes,MiniBatch1000,300,5.8
+1,whisper_to_me,itallcomes,MiniBatch1000,100,4.35
+2,whisper_to_me,itallcomes,MiniBatch1000,200,17.39
+3,whisper_to_me,itallcomes,MiniBatch1000,50,14.49
+4,whisper_to_me,itallcomes,MiniBatch1000,150,2.9

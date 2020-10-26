@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,whisper,wishing_song,GaussianMM,300,0.0
+1,whisper,wishing_song,GaussianMM,100,0.0
+2,whisper,wishing_song,GaussianMM,200,0.0
+3,whisper,wishing_song,GaussianMM,50,0.0
+4,whisper,wishing_song,GaussianMM,150,0.0

@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,letitend,howdeepisyourlove,GaussianMM,300,31.88
+1,letitend,howdeepisyourlove,GaussianMM,100,20.29
+2,letitend,howdeepisyourlove,GaussianMM,200,10.14
+3,letitend,howdeepisyourlove,GaussianMM,50,0.0
+4,letitend,howdeepisyourlove,GaussianMM,150,1.45

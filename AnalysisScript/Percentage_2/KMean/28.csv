@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,rendezvous,idreamed,Kmean,300,0.0
+1,rendezvous,idreamed,Kmean,100,30.43
+2,rendezvous,idreamed,Kmean,200,2.9
+3,rendezvous,idreamed,Kmean,50,0.0
+4,rendezvous,idreamed,Kmean,150,0.0

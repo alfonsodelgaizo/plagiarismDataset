@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,greengrassgrows,superstring,KMean,300,42.03
+1,greengrassgrows,superstring,KMean,100,28.99
+2,greengrassgrows,superstring,KMean,200,34.78
+3,greengrassgrows,superstring,KMean,50,95.65
+4,greengrassgrows,superstring,KMean,150,98.55

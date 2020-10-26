@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,whisper_to_me,itallcomes,GaussianMM,300,2.9
+1,whisper_to_me,itallcomes,GaussianMM,100,4.35
+2,whisper_to_me,itallcomes,GaussianMM,200,20.29
+3,whisper_to_me,itallcomes,GaussianMM,50,11.59
+4,whisper_to_me,itallcomes,GaussianMM,150,1.45

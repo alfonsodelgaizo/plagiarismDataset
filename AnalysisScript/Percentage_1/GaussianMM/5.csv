@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,lady_love,word_warning,GaussianMM,300,5.8
+1,lady_love,word_warning,GaussianMM,100,4.35
+2,lady_love,word_warning,GaussianMM,200,28.99
+3,lady_love,word_warning,GaussianMM,50,0.0
+4,lady_love,word_warning,GaussianMM,150,1.45

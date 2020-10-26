@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,alla_rancho,el_rancho_anonymous,GaussianMM,300,0.0
+1,alla_rancho,el_rancho_anonymous,GaussianMM,100,2.9
+2,alla_rancho,el_rancho_anonymous,GaussianMM,200,0.0
+3,alla_rancho,el_rancho_anonymous,GaussianMM,50,0.0
+4,alla_rancho,el_rancho_anonymous,GaussianMM,150,24.64

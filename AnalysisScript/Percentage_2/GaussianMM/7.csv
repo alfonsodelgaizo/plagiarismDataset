@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,does_anybody,bali,GaussianMM,300,4.35
+1,does_anybody,bali,GaussianMM,100,1.45
+2,does_anybody,bali,GaussianMM,200,0.0
+3,does_anybody,bali,GaussianMM,50,4.35
+4,does_anybody,bali,GaussianMM,150,0.0

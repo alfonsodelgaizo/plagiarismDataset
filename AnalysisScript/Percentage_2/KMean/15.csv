@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,prelude,dakota,Kmean,300,15.94
+1,prelude,dakota,Kmean,100,4.35
+2,prelude,dakota,Kmean,200,4.35
+3,prelude,dakota,Kmean,50,0.0
+4,prelude,dakota,Kmean,150,0.0

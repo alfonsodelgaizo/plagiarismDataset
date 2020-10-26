@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,whisper,wishing_song,MiniBatch100,300,0.0
+1,whisper,wishing_song,MiniBatch100,100,0.0
+2,whisper,wishing_song,MiniBatch100,200,0.0
+3,whisper,wishing_song,MiniBatch100,50,0.0
+4,whisper,wishing_song,MiniBatch100,150,0.0

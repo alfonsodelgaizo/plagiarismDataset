@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,light_myLife,lady_divine_pt3,Kmean,300,5.8
+1,light_myLife,lady_divine_pt3,Kmean,100,4.35
+2,light_myLife,lady_divine_pt3,Kmean,200,27.54
+3,light_myLife,lady_divine_pt3,Kmean,50,57.97
+4,light_myLife,lady_divine_pt3,Kmean,150,1.45

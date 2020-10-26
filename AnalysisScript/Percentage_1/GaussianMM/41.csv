@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,lifeisarock,menusong,GaussianMM,300,57.97
+1,lifeisarock,menusong,GaussianMM,100,7.25
+2,lifeisarock,menusong,GaussianMM,200,0.0
+3,lifeisarock,menusong,GaussianMM,50,7.25
+4,lifeisarock,menusong,GaussianMM,150,0.0

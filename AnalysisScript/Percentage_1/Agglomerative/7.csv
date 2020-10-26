@@ -1,0 +1,6 @@
+N,Song1,Song2,Algo,Embedding,Perc
+0,does_anybody,bali,Agglomerative,300,0.0
+1,does_anybody,bali,Agglomerative,100,1.45
+2,does_anybody,bali,Agglomerative,200,36.23
+3,does_anybody,bali,Agglomerative,50,20.29
+4,does_anybody,bali,Agglomerative,150,11.59
